@@ -1,0 +1,21 @@
+.arrow-down {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-top: 2px solid #cccccc;
+    border-right: 2px solid #cccccc;
+    transform: rotate(135deg);
+    color: white;
+    margin: 0 0 2% 7%;
+  }
+
+.arrow-up {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-top: 2px solid #cccccc;
+    border-right: 2px solid #cccccc;
+    transform: rotate(135deg);    
+    color: white;
+    margin: 2% 0 0 7%;
+}

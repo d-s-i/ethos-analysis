@@ -1,0 +1,45 @@
+.query-button  {
+    background: linear-gradient(to bottom, #9966ff 0%, #ff99cc 100%);
+    color: black;
+    padding: 1% 2% 1% 2%;
+    border-radius: 5px;
+    border: 1px #bb99ff solid;
+    color: white;
+    font-size: 1.1em;
+}
+
+.query-button:hover {
+    cursor: pointer;
+    background: linear-gradient(to bottom, #bb99ff 0%, #ff99cc 100%);
+}
+
+.query-button:active {
+    border: 1px solid white;
+}
+
+.error-button {
+    background: linear-gradient(to bottom, #9966ff 0%, #ff0000 100%);
+    color: black;
+    padding: 1% 2% 1% 2%;
+    border-radius: 5px;
+    border: 1px #bb99ff solid;
+    color: white;
+    font-size: 1.1em;
+}
+
+.error-button:hover {
+    cursor: pointer;
+}
+
+.cross {
+    display: flex;
+    justify-content: center;
+    background: none;
+    border: none;
+    color: #cccccc;
+    width: 17px;
+}
+
+.cross:hover {
+    cursor: pointer;
+}

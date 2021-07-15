@@ -1,0 +1,20 @@
+.backdrop {
+    background: rgba(0, 0, 0, 0.60);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+}
+
+.message {
+    margin-bottom: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.display-cross {
+    display: flex;
+    justify-content: flex-end;
+}

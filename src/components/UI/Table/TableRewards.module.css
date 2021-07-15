@@ -1,0 +1,26 @@
+.display-table {
+    display:table-cell;
+    width: 33%;
+    margin-top: 0%;
+}
+
+.table {
+    width: 100%;
+}
+
+.title {
+    display:flex;
+}
+
+.link:hover {
+    cursor: pointer;
+}
+
+.link:visited {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+.link:link {
+    text-decoration: none;
+}

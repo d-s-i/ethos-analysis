@@ -1,0 +1,31 @@
+.display-table {
+    display:table-cell;
+    width: 33%;
+    margin-bottom: 4%;
+}
+
+.table {
+    width: 100%;
+}
+
+.title {
+    display:flex;
+    justify-content: flex-start;
+}
+
+.results {
+    justify-content: flex-end;
+}
+
+.link:hover {
+    cursor: pointer;
+}
+
+.link:visited {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+.link:link {
+    text-decoration: none;
+}
